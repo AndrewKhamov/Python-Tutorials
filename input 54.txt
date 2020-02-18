@@ -1,0 +1,6 @@
+Ivanov S 14 56
+Sergeev P 23 74
+Petrov V 3 99
+Vasiliev A 3 56
+Andreev R 14 75
+Romanov I 27 68
